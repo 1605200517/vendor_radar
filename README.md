@@ -17,5 +17,5 @@ hq_country: home country
 
 url: main landing url
 
-customers: Priority to list customers are a) Fortune 500 companies b) companies who are themselves DevOps companies.
+customers: Priority to list customers are a) Fortune 500 companies b) companies who are themselves DevOps companies c) any other noticeable brands (names as referenced).
 Fortune 500 list: https://github.com/pssguy/fortune500/blob/master/fortune500.csv
