@@ -7,7 +7,7 @@ brand;vendor;hq_city;hq_country;url;customer1,customer2...customerN
 
 ##Explanation 
 
-brand: featured (DevOps) product name
+brand: featured (DevOps) product name. If a company offers many brands take most prominent.
 
 vendor: legal entity backing the brand
 
