@@ -1,14 +1,14 @@
 "brand","company","hq_city","hq_country","url","customers"
 "chef","chef","seattle","us","chef.io","gannett,target,standard bank,intuit,ge capital,nordstrom,bloomberg,ancestry,bonobos"
 "cloudbees","jenkins","san jose","us","cloudbees.com","allianz,pentaho,morning star"
-pentaho;
-ca technologies;
-github;
-puppet labs;
-blazemeter;
-jfrog;
-infostretch;
-soasta;
+pentaho,,,,,
+ca technologies,,,,,
+github,,,,,
+puppet labs,,,,,
+blazemeter,,,,,
+jfrog,,,,,
+infostretch,,,,,
+soasta,,,,,
 saucelabs;
 sonarsource;
 sonatype;
