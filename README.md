@@ -5,6 +5,8 @@ vendors:
 
 brand;vendor;hq_city;hq_country;url;customer1,customer2...customerN
 
+If a company has many noteworthy brands, customers to list along with the most known one.
+
 ##Explanation 
 
 brand: featured (DevOps) product name. If a company offers many brands take most prominent.
