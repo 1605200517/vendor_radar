@@ -9,23 +9,21 @@ blazemeter,,,,,
 jfrog,,,,,
 infostretch,,,,,
 soasta,,,,,
-saucelabs;
-sonarsource;
-sonatype;
-devops institute;
-atlassian;
-packer;
-docker;
-jfrog artifactory;
-atomic project;
-travis ci;
-circle ci;
-xebia;
-tiobe;
-seerene;
-qualicen;
-dynatrace;
-addtec;
-version one;
-
-
+saucelabs,,,,,
+sonarsource,,,,,
+sonatype,,,,,
+devops institute,,,,,
+atlassian,,,,,
+packer,,,,,
+docker,,,,,
+jfrog artifactory,,,,,
+atomic project,,,,,
+travis ci,,,,,
+circle ci,,,,,
+xebia,,,,,
+tiobe,,,,,
+seerene,,,,,
+qualicen,,,,,
+dynatrace,,,,,
+addtec,,,,,
+version one,,,,,
