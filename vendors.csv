@@ -1,6 +1,6 @@
 brand,ceo,hq_city,hq_country,url,customers
-chef,,Seattle,US,chef.io,"gannett,target,standard bank,intuit,ge capital,nordstrom,bloomberg,ancestry,bonobos"
-cloud bees,,San Jose,US,cloudbees.com,"allianz,pentaho,morning star"
+chef,Barry Christ,Seattle,US,chef.io,"gannett,target,standard bank,intuit,ge capital,nordstrom,bloomberg,ancestry,bonobos"
+cloud bees,Sacha Labourey,San Jose,US,cloudbees.com,"allianz,pentaho,morning star"
 pentaho,Quentin Gallivan,Orlando,US,pentaho.com,"BT,Caterpillar Marine Asset Intelligence,Edo Interactive,BEONTRA,NASDAQ"
 ca technologies,Mike Gregoire,New York,US,ca.com,"Banco de Desarrollo Rural,Asurion,Unum,Acciona,Advanced Info Service"
 github,Chris Wanstrath,San Francisco,US,github.com,"MailChimp,Kakao Corporation,CoverMyMeds,HubSpot,DLR Institute of Robotics"
