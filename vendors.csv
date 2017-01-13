@@ -16,7 +16,7 @@ Atlassian,"Jira,Confluence,Stash,Bitbucket,Bamboo,FishEye",Mike Cannon-Brookes,S
 HashiCorp,packer,Mitchell Hashimoto,San Francisco,US,packer.io,"cisco,pinterest,digital ocean"
 ,docker,Ben Golub,San Francisco,US,docker.com,"ADP, PayPal, Indiana University, BBC News, Yelp"
 ,jfrog artifactory,Shlomi Ben Haim,Sunnyvale,US,jfrog.com/artifactory,"Google, Master Card, Amazon, LinkedIn, Twitter"
-Red Hat,atomic project,,-,-,,projectatomic.io,""
+Red Hat,atomic project,,,,projectatomic.io,""
 ,travis ci,Mathias Meyer,Berlin,DE,travis-ci.org,"Twitter, Zendesk, Heroku, Bit Torrent, Engine Yard“"
 ,circle ci,Jim Rose,San Francisco,US,circleci.com,"Facebook, Next door, Go Pro, Spotify, Fastlane"
 ,xebia,Daan Teunissen,Boston,US,xebia.com,"Renault, Barclays, Tesla, Emirates, Stater"
