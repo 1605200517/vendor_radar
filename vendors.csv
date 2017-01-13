@@ -12,12 +12,12 @@ soasta,Tom Lounibos,Mountain View,US,soasta.com,"Nordstrom, Etsy, Staples, Best 
 saucelabs,Charles Ramsey,San Francisco,US,saucelabs.com,"Yahoo, Eventbrite, Zendesk, Salesforce, travelocity"
 sonarsource,Olivier Gaudin,Geneva,CH,sonarsource.com,"Ebay, Bank of America, Thales, BMW, Deloitte"
 sonatype,E. Wayne Jackson III,Fulton,US,sonatype.com,"Goldman Sachs, Toyota, Disney, Deutsche Bank, NASA"
-devops institute,Lisa Schwartz,,,devopsinstitute.com,,
+devops institute,Lisa Schwartz,,,devopsinstitute.com,""
 atlassian,Mike Cannon-Brookes,Sydney,AU,atlassian.com,"Airbnb, NASA, Cisco, eBay, Toyota"
-packer,,,,packer.io,,,
-docker,Ben Golub,San Francisco,US,docker.com,"ADP, PayPal, Indiana University, BBC News, Yelp",,
+packer,,,,packer.io,""
+docker,Ben Golub,San Francisco,US,docker.com,"ADP, PayPal, Indiana University, BBC News, Yelp"
 jfrog artifactory,Shlomi Ben Haim,Sunnyvale,US,jfrog.com/artifactory,"Google, Master Card, Amazon, LinkedIn, Twitter"
-atomic project,,,,projectatomic.io,,,
+atomic project,,,,projectatomic.io,""
 travis ci,Mathias Meyer,Berlin,DE,travis-ci.org,"Twitter, Zendesk, Heroku, Bit Torrent, Engine Yard“"
 circle ci,Jim Rose,San Francisco,US,circleci.com,"Facebook, Next door, Go Pro, Spotify, Fastlane"
 xebia,Daan Teunissen,Boston,US,xebia.com,"Renault, Barclays, Tesla, Emirates, Stater"
